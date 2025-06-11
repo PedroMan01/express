@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "express": "^5.1.0"
+  },
+  "name": "express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroMan01/express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroMan01/express/issues"
+  },
+  "homepage": "https://github.com/PedroMan01/express#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
